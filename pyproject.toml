@@ -1,0 +1,10 @@
+[project]
+name = "how-many-bits-manim"
+version = "0.1.0"
+description = "An animated proof of how many digits a number needs in a given base"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "manim==0.19.0",
+    "manim-slides==5.5.1",
+]

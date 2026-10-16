@@ -1,0 +1,13 @@
+media
+slides
+slides_assets
+slides.html
+site/
+scene/media
+scene/slides
+.venv/
+__pycache__/
+.vscode
+.DS_Store
+ruff.toml
+.gh-pages/
